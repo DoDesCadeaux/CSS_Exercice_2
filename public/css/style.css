@@ -11,7 +11,7 @@ section:nth-child(2) {
     border-bottom: red 5px solid;
 }
 
-.section3>h1,.section3 li {
+section:nth-child(3)>h3, h3 + ul > li {
     color: red;
 }
 
